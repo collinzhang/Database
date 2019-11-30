@@ -1,0 +1,39 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "36,4,738,1366"
+
+[AB_Cache_{90F330FE-3510-48A3-9F48-4DCC10C7FAFB}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "86ca3ed40469a6173928a4290fd2c7de"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/E/Design Documents/LV Files/builds/DataBase"
+Cache_GenFile[0][Path] Line0002 = " Project/DB/DB.exe"
+Cache_GenFile[1][Path] Line0001 = "/E/Design Documents/LV Files/builds/DataBase"
+Cache_GenFile[1][Path] Line0002 = " Project/DB/DB.aliases"
+Cache_GenFile[2][Path] Line0001 = "/E/Design Documents/LV Files/builds/DataBase"
+Cache_GenFile[2][Path] Line0002 = " Project/DB/DB.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{617FB4E0-231F-4D2F-91E1-C8A08D3C97F1}"
+Cache_GenGUID[1][String] = "{F6D25F48-2616-4E4D-867D-C56B632DB043}"
+Cache_GenGUID[2][String] = "{9AF9EF66-7B77-4C76-AC14-F21A670A8C67}"
+Cache_OutputDir[Path] Line0001 = "/E/Design Documents/LV Files/builds/DataBase "
+Cache_OutputDir[Path] Line0002 = "Project/DB"
+
+[AB_Cache_{91B2EAAC-9634-45F4-AF36-AA7DC1BCD080}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "86ca3ed40469a6173928a4290fd2c7de"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] Line0001 = "/E/Design Documents/LV Files/builds/DataBase"
+Cache_GenFile[0][Path] Line0002 = " Project/DB/DB.exe"
+Cache_GenFile[1][Path] Line0001 = "/E/Design Documents/LV Files/builds/DataBase"
+Cache_GenFile[1][Path] Line0002 = " Project/DB/DB.aliases"
+Cache_GenFile[2][Path] Line0001 = "/E/Design Documents/LV Files/builds/DataBase"
+Cache_GenFile[2][Path] Line0002 = " Project/DB/DB.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{617FB4E0-231F-4D2F-91E1-C8A08D3C97F1}"
+Cache_GenGUID[1][String] = "{F6D25F48-2616-4E4D-867D-C56B632DB043}"
+Cache_GenGUID[2][String] = "{9AF9EF66-7B77-4C76-AC14-F21A670A8C67}"
+Cache_OutputDir[Path] Line0001 = "/E/Design Documents/LV Files/builds/DataBase "
+Cache_OutputDir[Path] Line0002 = "Project/DB"
+
